@@ -53,3 +53,77 @@
     font-weight: 400;
     font-family: inherit;
 }
+
+/* About me */
+
+.button-c{
+    margin-top: 30px;
+}
+.button-c a{
+    text-decoration: none;
+    color: #fff;
+    background-image: linear-gradient(#171acc, #e61811, #20fc03);
+    padding: 11px 25px;
+    border-radius: 10px;
+}
+
+/* My recipes css */
+
+.my-recipes{
+    margin-top: 100px;
+}
+.my-recipes h1{
+    color: #000;
+    margin-bottom: 20px;
+}
+
+
+
+/* resipe title css */
+
+.recipie-title{
+    margin-top: 100px;
+}
+.recipie-title{
+    margin-top: 100px;
+}
+.recipie-title .recipie-text h1{
+    color: #000;
+    margin-bottom: 20px;
+    font-family: initial;
+    margin-top: 11px;
+}
+.recipie-title .recipie-text p {
+    font-size: 17px;
+    color: #373238;
+}
+.recipetext{
+    border-radius: 20px;
+}
+
+/* progress bar css */
+
+.progres-bar{
+    margin-top: 100px;
+}
+.progres-bar .container{
+    background-color: #fff;
+    border-radius: 15px;
+}
+.progres-bar .container h1 {
+    color: #000;
+    font-size: 50px;
+    font-weight: 600;
+}
+.progres-bar .container span{
+    color: rgb(58, 29, 29);
+    text-align: left;
+ }
+
+ /* Footer section css */
+
+ .footer {
+    margin-top: 100px;
+    background-color: #110a0f;
+    padding: 56px 0px;
+}
